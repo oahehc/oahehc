@@ -1,7 +1,5 @@
 # Andrew Chang - @oahehc
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oahehc&show_icons=true)
-
 ## 😎 Links
 - [Resume](https://oahehc.github.io/resume/)
 - [Linkedin](https://www.linkedin.com/in/oahehc)
